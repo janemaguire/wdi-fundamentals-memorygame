@@ -18,3 +18,9 @@ var createBoard = function(x) {
   world.appendChild(board);
 };
 newDiv.addEventListener('click', createBoard)
+
+var card = ["queen", "queen", "king", "king"];
+var cardsInPlay = [];
+for (var i = 0; i< cards.length; i++) {
+
+}
